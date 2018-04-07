@@ -2,8 +2,6 @@
 $json = file_get_contents('http://api.openweathermap.org/data/2.5/weather?q=London,uk&appid=48ca7ca21381462c0cee89238cc15fc8');
 $data = json_decode($json, true);
 
-//echo "<pre>";
-//print_r($data);
 ?>
 
 <html>
