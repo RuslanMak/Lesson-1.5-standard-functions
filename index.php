@@ -6,7 +6,7 @@ $data = json_decode($json, true);
 
 <html>
 <head>
-    <title>Weather</title>
+    <title>Test</title>
 </head>
 
 <body>
